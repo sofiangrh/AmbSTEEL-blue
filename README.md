@@ -5,4 +5,4 @@ This is the Ubuntu 11.10 Ambiance theme, but tweaked.
 Copy the destination forlder to ~/.themes
 
 # Note 
-> The license of the original author.
+> The license to the original author.
